@@ -1,0 +1,191 @@
+[
+  {
+    "id": "01",
+    "title": "กรอบและความพร้อม",
+    "category": "เริ่มต้น",
+    "description": "ขอบเขต คำถามยุทธศาสตร์ แผนงาน และความพร้อมของข้อมูล · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-01.md",
+    "url": "articles/document-01.html"
+  },
+  {
+    "id": "02",
+    "title": "กฎหมายและแผนที่เกี่ยวข้อง",
+    "category": "หลักฐาน",
+    "description": "กรอบกฎหมาย ความสอดคล้องของแผน และขอบเขตอำนาจหน้าที่ · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-02.md",
+    "url": "articles/document-02.html"
+  },
+  {
+    "id": "03",
+    "title": "สถานการณ์และฐานข้อมูลจังหวัด",
+    "category": "หลักฐาน",
+    "description": "ข้อมูลเชิงพื้นที่ นิยามตัวชี้วัด ข้อขัดแย้งและข้อจำกัดของข้อมูล · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-03.md",
+    "url": "articles/document-03.html"
+  },
+  {
+    "id": "04",
+    "title": "การมีส่วนร่วมและความต้องการ",
+    "category": "กระบวนการ",
+    "description": "แนวทางสังเคราะห์ความต้องการ โดยยังไม่มีผลการรับฟังจริง · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-04.md",
+    "url": "articles/document-04.html"
+  },
+  {
+    "id": "05",
+    "title": "ทางเลือกทิศทางยุทธศาสตร์",
+    "category": "กระบวนการ",
+    "description": "เปรียบเทียบทางเลือก A–B–C และเงื่อนไขการตัดสินใจ · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-05.md",
+    "url": "articles/document-05.html"
+  },
+  {
+    "id": "06",
+    "title": "ร่างยุทธศาสตร์ฉบับเต็ม",
+    "category": "ร่างยุทธศาสตร์",
+    "description": "ร่างก่อนการทบทวนความปลอดภัยและการปรับปรุงคุณภาพ · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-06.md",
+    "url": "articles/document-06.html"
+  },
+  {
+    "id": "07",
+    "title": "ความปลอดภัย พฤติกรรม และการแนะแนว",
+    "category": "หลักฐาน",
+    "description": "ระบบดูแลช่วยเหลือ การป้องกัน การส่งต่อ และการติดตามผู้เรียน · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-07.md",
+    "url": "articles/document-07.html"
+  },
+  {
+    "id": "08",
+    "title": "การตรวจคุณภาพและตรวจสอบย้อนกลับ",
+    "category": "กระบวนการ",
+    "description": "เกณฑ์คะแนน 0–5 และเส้นทางเชื่อมจากหลักฐานถึงยุทธศาสตร์ · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-08.md",
+    "url": "articles/document-08.html"
+  },
+  {
+    "id": "09",
+    "title": "ยุทธศาสตร์ฉบับปรับปรุง",
+    "category": "ร่างยุทธศาสตร์",
+    "description": "ฉบับปรับปรุงภายหลังการตรวจคุณภาพภายใน · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-09.md",
+    "url": "articles/document-09.html"
+  },
+  {
+    "id": "10",
+    "title": "ยุทธศาสตร์ฉบับภาษาชัดเจน",
+    "category": "ร่างยุทธศาสตร์",
+    "description": "ฉบับ 1.4 ปรับหลักฐานจังหวัด ค่าฐาน เป้าหมาย และงบแบบมีเงื่อนไข",
+    "ext": "md",
+    "download": "downloads/document-10.md",
+    "url": "articles/document-10.html"
+  },
+  {
+    "id": "11",
+    "title": "เอกสารประกอบการบรรยาย",
+    "category": "สื่อการเรียนรู้",
+    "description": "หลักคิด กระบวนการ 10 ขั้น ใบงาน และตัวอย่างประยุกต์ · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-11.md",
+    "url": "articles/document-11.html"
+  },
+  {
+    "id": "12",
+    "title": "สไลด์ประกอบการบรรยาย",
+    "category": "สื่อการเรียนรู้",
+    "description": "สไลด์นำเสนอ 31 หน้า รูปแบบ PowerPoint · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "pptx",
+    "download": "downloads/document-12.pptx",
+    "url": "lecture.html"
+  },
+  {
+    "id": "13",
+    "title": "สไลด์พร้อมคำบรรยายรายหน้า",
+    "category": "สื่อการเรียนรู้",
+    "description": "สไลด์พร้อมบันทึกสำหรับผู้บรรยาย เปิดแก้ไขและนำเสนอได้ · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "pptx",
+    "download": "downloads/document-13.pptx",
+    "url": "lecture.html"
+  },
+  {
+    "id": "14",
+    "title": "แบบประเมินตนเองก่อน–หลัง",
+    "category": "เครื่องมือ",
+    "description": "แบบประเมินฉบับเอกสารและคำแนะนำการใช้ผลอย่างระมัดระวัง · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-14.md",
+    "url": "articles/document-14.html"
+  },
+  {
+    "id": "15",
+    "title": "บันทึกปรับข้อมูลตามแผนเดิม",
+    "category": "หลักฐาน",
+    "description": "ประวัติการตัดสินใจก่อนตรวจเอกสารจังหวัดฉบับเต็ม · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-15.md",
+    "url": "articles/document-15.html"
+  },
+  {
+    "id": "16",
+    "title": "ผลตรวจเอกสารจังหวัดฉบับเต็ม",
+    "category": "หลักฐาน",
+    "description": "ข้อค้นพบจาก PDF และรายการข้อมูลที่ต้องตรวจยืนยัน · เอกสารก่อนปรับฉบับ 1.4 โปรดอ่าน 10/17 ประกอบ",
+    "ext": "md",
+    "download": "downloads/document-16.md",
+    "url": "articles/document-16.html"
+  },
+  {
+    "id": "17",
+    "title": "บันทึกปรับร่างและเว็บไซต์ตามหลักฐานจังหวัด",
+    "category": "หลักฐาน",
+    "description": "เหตุผลค่าฐาน เป้าหมาย งบ และผลตรวจฉบับ 1.4",
+    "ext": "md",
+    "download": "downloads/document-17.md",
+    "url": "articles/document-17.html"
+  },
+  {
+    "id": "18",
+    "title": "บทบรรยาย ทบทวนแผนและเตรียมปี 2570",
+    "category": "สื่อการเรียนรู้",
+    "description": "ประชุม 16 กันยายน 2569 บทหลัก 55 นาที แยกแผนจังหวัดและแผนสำนักงาน",
+    "ext": "md",
+    "download": "downloads/document-18.md",
+    "url": "articles/document-18.html"
+  },
+  {
+    "id": "19",
+    "title": "สไลด์พร้อมคำบรรยาย แผนปี 2570",
+    "category": "สื่อการเรียนรู้",
+    "description": "32 สไลด์ ใช้ห้ายุทธศาสตร์เดิมเป็นฐาน พร้อมบันทึกผู้บรรยาย",
+    "ext": "pptx",
+    "download": "downloads/document-19.pptx",
+    "url": "lecture-2570.html"
+  },
+  {
+    "id": "20",
+    "title": "คู่มือทบทวนแผน 2566–2570 ในปี 2569",
+    "category": "เครื่องมือ",
+    "description": "แนวทางจัดทำแผนปฏิบัติการ 2570 ตัวอย่างบันทึกทบทวน ตัวชี้วัดและวงรอบงาน",
+    "ext": "md",
+    "download": "downloads/workshop-2570-guide.md",
+    "url": "workshop-2570.html"
+  },
+  {
+    "id": "21",
+    "title": "ใบงานโครงการปีงบประมาณ 2570",
+    "category": "เครื่องมือ",
+    "description": "สิบช่องกรอก เชื่อมหลักฐาน ผลต่อผู้เรียน เจ้าภาพ ทรัพยากร และเรื่องรอตัดสินใจ",
+    "ext": "md",
+    "download": "downloads/action-plan-2570-worksheet.md",
+    "url": "workshop-worksheet.html"
+  }
+]

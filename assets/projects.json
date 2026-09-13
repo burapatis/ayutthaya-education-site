@@ -1,0 +1,224 @@
+[
+  {
+    "id": "E1",
+    "title": "ข้อตกลงความต่อเนื่องของผู้เรียนอยุธยา",
+    "alias": "ระบบติดตามความต่อเนื่องและจัดการรายกรณี",
+    "workPackages": [
+      {
+        "id": "E1.1",
+        "title": "ข้อตกลงการรับ–ส่งต่อข้ามสังกัด"
+      },
+      {
+        "id": "E1.2",
+        "title": "เตือนภัยจากการขาดเรียนอย่างไม่ตีตรา"
+      },
+      {
+        "id": "E1.3",
+        "title": "ยืนยันปลายทางและติดตามหลังย้าย"
+      },
+      {
+        "id": "E1.4",
+        "title": "ทางเลือกและความช่วยเหลือตามความจำเป็น"
+      },
+      {
+        "id": "E1.5",
+        "title": "ทบทวนรอยต่อและกรณีตกหล่น"
+      }
+    ],
+    "fiveYearProposedBudgetMillion": [
+      30,
+      50
+    ],
+    "illustrativePilotCostBaht": 900000,
+    "url": "projects/e1.html",
+    "download": "downloads/project-e1.md",
+    "status": "illustrative-proposal-not-approved",
+    "version": "1.3",
+    "updated": "2026-09-10"
+  },
+  {
+    "id": "E2",
+    "title": "อ่านรู้เรื่อง–คิดคำนวณ–ต่อยอดมัธยม",
+    "alias": "เครือข่ายช่วยผู้เรียนด้านการอ่านและคณิตศาสตร์",
+    "workPackages": [
+      {
+        "id": "E2.1",
+        "title": "ประเมินต้นทางอย่างเทียบเคียงได้"
+      },
+      {
+        "id": "E2.2",
+        "title": "ช่วยเหลือหลายระดับตามความจำเป็น"
+      },
+      {
+        "id": "E2.3",
+        "title": "ชี้แนะครูโดยใช้หลักฐานชั้นเรียน"
+      },
+      {
+        "id": "E2.4",
+        "title": "ส่งต่อแฟ้มช่วงเปลี่ยนชั้น"
+      },
+      {
+        "id": "E2.5",
+        "title": "ประเมินผลและความเสมอภาค"
+      }
+    ],
+    "fiveYearProposedBudgetMillion": [
+      45,
+      70
+    ],
+    "illustrativePilotCostBaht": 1050000,
+    "url": "projects/e2.html",
+    "download": "downloads/project-e2.md",
+    "status": "illustrative-proposal-not-approved",
+    "version": "1.3",
+    "updated": "2026-09-10"
+  },
+  {
+    "id": "E3",
+    "title": "ระบบข้อมูลทักษะและคุณภาพทวิภาคีอยุธยา",
+    "alias": "ความร่วมมือพัฒนาทักษะกับกลุ่มอุตสาหกรรม",
+    "workPackages": [
+      {
+        "id": "E3.1",
+        "title": "ข้อมูลทักษะรายกลุ่มอุตสาหกรรม"
+      },
+      {
+        "id": "E3.2",
+        "title": "มาตรฐานแหล่งฝึกและพี่เลี้ยง"
+      },
+      {
+        "id": "E3.3",
+        "title": "หน่วยเรียนและทักษะใช้ข้ามงาน"
+      },
+      {
+        "id": "E3.4",
+        "title": "แนะแนวและติดตามระหว่างฝึก"
+      },
+      {
+        "id": "E3.5",
+        "title": "ติดตามผู้สำเร็จ 6 และ 12 เดือน"
+      }
+    ],
+    "fiveYearProposedBudgetMillion": [
+      40,
+      70
+    ],
+    "illustrativePilotCostBaht": 1400000,
+    "url": "projects/e3.html",
+    "download": "downloads/project-e3.md",
+    "status": "illustrative-proposal-not-approved",
+    "version": "1.3",
+    "updated": "2026-09-10"
+  },
+  {
+    "id": "E4",
+    "title": "สถานศึกษาอยุธยาปลอดภัย เอาใจใส่ มีการแนะแนว และพร้อมรับความเปลี่ยนแปลง",
+    "alias": "เครือข่ายสถานศึกษาปลอดภัย ดูแลช่วยเหลือและแนะแนว",
+    "workPackages": [
+      {
+        "id": "E4.1",
+        "title": "มาตรฐานขั้นต่ำและช่องทางแจ้งเหตุ"
+      },
+      {
+        "id": "E4.2",
+        "title": "ดูแลช่วยเหลือและแนะแนวสามขอบข่าย"
+      },
+      {
+        "id": "E4.3",
+        "title": "พฤติกรรมเชิงบวกและเสียงผู้เรียน"
+      },
+      {
+        "id": "E4.4",
+        "title": "ภัยพิบัติและความต่อเนื่องการเรียน"
+      },
+      {
+        "id": "E4.5",
+        "title": "เรียนรู้มรดกอย่างปลอดภัยและไม่กระทบพื้นที่"
+      }
+    ],
+    "fiveYearProposedBudgetMillion": [
+      40,
+      65
+    ],
+    "illustrativePilotCostBaht": 1180000,
+    "url": "projects/e4.html",
+    "download": "downloads/project-e4.md",
+    "status": "illustrative-proposal-not-approved",
+    "version": "1.3",
+    "updated": "2026-09-10"
+  },
+  {
+    "id": "E5",
+    "title": "เครือข่ายบริการการศึกษาและความร่วมมือเอกชนอยุธยา",
+    "alias": "เครือข่ายใช้ทรัพยากรร่วมและความร่วมมือการศึกษาเอกชน",
+    "workPackages": [
+      {
+        "id": "E5.1",
+        "title": "แผนที่บริการและความต้องการรายพื้นที่"
+      },
+      {
+        "id": "E5.2",
+        "title": "ข้อตกลงร่วมกับการศึกษาเอกชน"
+      },
+      {
+        "id": "E5.3",
+        "title": "ครูและผู้เชี่ยวชาญเคลื่อนที่"
+      },
+      {
+        "id": "E5.4",
+        "title": "พื้นที่เรียนรู้ร่วมและการเดินทางที่เข้าถึงได้"
+      },
+      {
+        "id": "E5.5",
+        "title": "รองรับความเปลี่ยนแปลงของสถานศึกษา"
+      }
+    ],
+    "fiveYearProposedBudgetMillion": [
+      20,
+      35
+    ],
+    "illustrativePilotCostBaht": 920000,
+    "url": "projects/e5.html",
+    "download": "downloads/project-e5.md",
+    "status": "illustrative-proposal-not-approved",
+    "version": "1.3",
+    "updated": "2026-09-10"
+  },
+  {
+    "id": "E6",
+    "title": "ข้อตกลงข้อมูลการศึกษาระดับจังหวัด",
+    "alias": "ระบบข้อมูลและติดตามผลร่วมระดับจังหวัด",
+    "workPackages": [
+      {
+        "id": "E6.1",
+        "title": "ทะเบียนข้อมูลและพจนานุกรมร่วม"
+      },
+      {
+        "id": "E6.2",
+        "title": "ตรวจความถูกต้องและรับรองค่าฐาน"
+      },
+      {
+        "id": "E6.3",
+        "title": "หน้ารายงานหลายระดับที่ไม่เปิดข้อมูลเด็ก"
+      },
+      {
+        "id": "E6.4",
+        "title": "บันทึกการตัดสินใจและการติดตาม"
+      },
+      {
+        "id": "E6.5",
+        "title": "ทบทวนระบบและพัฒนาคน"
+      }
+    ],
+    "fiveYearProposedBudgetMillion": [
+      15,
+      20
+    ],
+    "illustrativePilotCostBaht": 850000,
+    "url": "projects/e6.html",
+    "download": "downloads/project-e6.md",
+    "status": "illustrative-proposal-not-approved",
+    "version": "1.3",
+    "updated": "2026-09-10"
+  }
+]
