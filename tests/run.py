@@ -104,7 +104,13 @@ trackers = [
 check("T39 no third-party trackers or font CDNs", not any(t in joined for t in trackers))
 check("T40 Open Graph image file", (ROOT / "assets/og-image.png").is_file())
 check("T40b apple-touch-icon", (ROOT / "assets/apple-touch-icon.png").is_file())
+check("site logo", (ROOT / "assets/logo.png").is_file())
+check("header uses site logo", 'src="assets/logo.png"' in (ROOT / "index.html").read_text(encoding="utf-8") and 'class="brandmark"' in (ROOT / "index.html").read_text(encoding="utf-8"))
+check("old gold-bar favicon unlinked", "favicon.svg" not in (ROOT / "index.html").read_text(encoding="utf-8"))
 check("T40c LICENSE", (ROOT / "LICENSE.txt").is_file())
+check("author portrait", (ROOT / "assets/author.jpg").is_file())
+check("author thumb", (ROOT / "assets/author-thumb.jpg").is_file())
+check("about shows author photo", 'src="assets/author.jpg"' in (ROOT / "about.html").read_text(encoding="utf-8"))
 
 # Extra publishing integrity
 check("404 stays noindex", 'name="robots" content="noindex"' in (ROOT / "404.html").read_text(encoding="utf-8"))
