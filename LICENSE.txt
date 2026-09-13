@@ -1,0 +1,50 @@
+สัญญาอนุญาตของเว็บไซต์
+อยุธยา · เรียนรู้การวางยุทธศาสตร์การศึกษา
+รุ่น 1.5.0 — 13 กันยายน 2569
+URL: https://ayeduplan1.thamdee.com/
+
+จัดทำโดย บูรพาทิศ พลอยสุวรรณ์ ผู้วิจัยอิสระ
+ติดต่อ: burapatis@gmail.com
+
+1. เนื้อหาต้นฉบับของผู้จัดทำ
+โครงสร้างหน้าเว็บ บทสรุป ใบงาน แบบประเมิน สคริปต์ ภาพไอคอน/รูปแชร์ และสื่อที่ผู้จัดทำสร้างขึ้น
+สงวนลิขสิทธิ์ © 2569 บูรพาทิศ พลอยสุวรรณ์
+
+อนุญาตให้อ่าน ดาวน์โหลด และอ้างอิงเพื่อการศึกษา โดยระบุชื่อผู้จัดทำ รุ่นเว็บไซต์ URL และวันที่เข้าถึง
+การทำซ้ำทั้งชุด การดัดแปลง หรือการใช้ในเชิงพาณิชย์ ต้องได้รับอนุญาตเป็นหนังสือจากผู้จัดทำ
+
+2. เอกสารและสื่อของบุคคลที่สาม
+กฎหมาย แผนจังหวัด รายงานสถิติ คำสั่ง ภาพ ไฟล์ต้นทาง และแหล่งอ้างอิงภายนอก
+ยังเป็นของเจ้าของสิทธิ์เดิม เว็บไซต์นี้ไม่ได้ให้สัญญาอนุญาตแทนเจ้าของเหล่านั้น
+
+3. แบบอักษร
+Sarabun อยู่ภายใต้ SIL Open Font License, Version 1.1
+ดูรายละเอียดใน assets/fonts/OFL.txt
+
+4. สถานะเนื้อหา
+ร่างยุทธศาสตร์ ค่าเป้าหมาย และกรอบงบประมาณเป็นข้อเสนอเพื่อเรียนรู้และพิจารณา
+ไม่ใช่มติรับรองของจังหวัดหรือหน่วยงานราชการ และเว็บไซต์นี้ไม่ใช่เว็บไซต์ทางราชการ
+
+---
+
+Website license
+Ayutthaya Education Strategy Learning Site
+Version 1.5.0 — 13 September 2026
+URL: https://ayeduplan1.thamdee.com/
+
+Author: Burapatis Ploysuwan, independent researcher
+Contact: burapatis@gmail.com
+
+Original website structure, summaries, worksheets, assessment tools, scripts,
+and images created by the author are copyright © 2026 Burapatis Ploysuwan.
+Reading, downloading, and citing for learning are permitted with attribution
+(author, version, URL, and access date). Reproduction of the whole work,
+adaptation, or commercial use requires prior written permission.
+
+Third-party laws, plans, statistics, orders, source files, and references
+remain with their rights holders. This site does not license those materials.
+
+Sarabun is licensed under the SIL Open Font License 1.1 (assets/fonts/OFL.txt).
+
+Draft strategies, targets, and budget frames are learning proposals, not
+approved resolutions, and this is not a government website.

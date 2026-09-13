@@ -1,0 +1,23 @@
+{
+  "name": "อยุธยา · เรียนรู้การวางยุทธศาสตร์การศึกษา",
+  "short_name": "อยุธยายุทธศาสตร์",
+  "lang": "th",
+  "description": "แหล่งเรียนรู้อิสระ แยกชุดทบทวนแผนปี 2570 จากร่างยุทธศาสตร์ 2571–2575",
+  "start_url": "../index.html",
+  "scope": "../",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#102c46",
+  "icons": [
+    {
+      "src": "favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

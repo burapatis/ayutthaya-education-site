@@ -1,5 +1,12 @@
 # ประวัติการปรับปรุง
 
+## รุ่น 1.5.0 — 13 กันยายน 2569
+
+- กำหนด URL สาธารณะเป็น `https://ayeduplan1.thamdee.com/` พร้อมไฟล์ `CNAME`, `robots.txt`, `sitemap.xml` และ `LICENSE.txt`
+- ใส่ canonical, hreflang, Open Graph, Twitter Card, JSON-LD, ไอคอน PNG และภาพแชร์ทุกหน้าที่จัดทำดัชนี
+- ย้ายชุดทดสอบเข้าคลังที่ `tests/run.py` และ `tests/edu-core.test.js`
+- หน้า 404 ยังเป็น noindex ไม่ได้อยู่ใน sitemap และยังไม่มีการรับรอง WCAG 2.2 AA จากผู้ตรวจอิสระ
+
 ## รุ่น 1.4.2 — 13 กันยายน 2569
 
 - แปลงภาพสไลด์บนเว็บเป็น JPEG และบีบอัดภาพพื้นหลังใน `document-19.pptx` เพื่อให้หน้าสไลด์และไฟล์ดาวน์โหลดเบากว่าเดิม
